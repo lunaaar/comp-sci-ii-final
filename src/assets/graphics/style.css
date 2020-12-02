@@ -1,0 +1,6 @@
+.text-box {
+	-fx-background-color: black;
+	-fx-font-family: "Consolas";
+	-fx-font-size: 16pt;
+	-fx-fill: white;
+}
